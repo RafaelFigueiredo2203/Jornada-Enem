@@ -11,6 +11,11 @@ The platform connects students with educators who can review and grade their ess
 
 > This project is *private*, but I actively contribute to its development as part of a volunteer team.
 
+![image](https://github.com/user-attachments/assets/dde51def-dbae-473e-8923-25607c143bd1)
+
+![image](https://github.com/user-attachments/assets/c826112b-6f94-4c1f-8df4-d467b250fb59)
+
+
 ---
 
 ## Tech Stack

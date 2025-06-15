@@ -28,7 +28,7 @@ The platform connects students with educators who can review and grade their ess
 
 ## My Role
 
-I'm contributing as a *fullstack developer*, focusing on:
+I'm contributing as a *Fullstack Developer* and *Tech Lead Front-end*, focusing on:
 
 - Implementing the essay submission flow with file upload and form validation
 - Creating the evaluation interface for teachers (drawer component with scoring per skill)
